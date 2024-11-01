@@ -1,0 +1,25 @@
+{
+  "name": "sharethis-reaction-buttons",
+  "version": "1.3.1",
+  "description": "Introducing Reaction Buttons WP Plugin, by ShareThis! Reaction buttons give your visitors a fun, quick way to interact with your content. Best of all, they look great on every device and are simple to configure and install.",
+  "scripts": {
+    "env:restart": "wp-env start",
+    "env:start": "wp-env start",
+    "env:start:debug": "wp-env start --xdebug",
+    "env:stop": "wp-env stop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharethis-github/sharethis-reaction-buttons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharethis-github/sharethis-reaction-buttons/issues"
+  },
+  "homepage": "https://github.com/sharethis-github/sharethis-reaction-buttons#readme",
+  "devDependencies": {
+    "@wordpress/env": "^5.2.0"
+  }
+}
